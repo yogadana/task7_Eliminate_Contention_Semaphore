@@ -137,7 +137,6 @@ void StartGreenLEDTask(void *argument)
 3. **Compare Results**:
    - Verify that semaphore usage eliminates the timing disruptions seen in **Exercise 7**.
 
----
 
 ### **Demonstration Video**
 https://github.com/user-attachments/assets/698c0213-68ed-424d-87d7-ec10f89a0724
