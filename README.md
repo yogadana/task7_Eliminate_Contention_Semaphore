@@ -140,7 +140,8 @@ void StartGreenLEDTask(void *argument)
 ---
 
 ### **Demonstration Video**
-https://github.com/yogadana/task7_Eliminate_Contention_Semaphore/blob/main/video_2024-12-04_23-37-43.mp4
+https://github.com/user-attachments/assets/698c0213-68ed-424d-87d7-ec10f89a0724
+
 
 ---
 
