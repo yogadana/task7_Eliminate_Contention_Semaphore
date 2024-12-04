@@ -139,6 +139,11 @@ void StartGreenLEDTask(void *argument)
 
 ---
 
+### **Demonstration Video**
+https://github.com/yogadana/task7_Eliminate_Contention_Semaphore/blob/main/video_2024-12-04_23-37-43.mp4
+
+---
+
 ### **Conclusion**
 This exercise demonstrates how semaphores resolve resource contention effectively and with minimal disturbance to system performance. By using semaphores, multitasking systems can ensure smooth task execution, predictable timing, and reliable synchronization, even in resource-sharing scenarios.
 
